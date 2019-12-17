@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93565304-09b5-4ab4-aed8-7fc94cf539f9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2880">
+              <caret line="192" column="8" lean-forward="false" selection-start-line="192" selection-start-column="8" selection-end-line="192" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="laptopController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/laptopController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+              <folding>
+                <marker date="1525505044000" expanded="true" signature="272:478" ph="{&quot;fzaninotto/faker&quot;: &quot;~1.4&quot;...}" />
+                <marker date="1525505044000" expanded="true" signature="496:616" ph="{...}" />
+                <marker date="1525505044000" expanded="true" signature="518:552" ph="[...]" />
+                <marker date="1525505044000" expanded="true" signature="571:610" ph="{&quot;App\&quot;: &quot;app/&quot;...}" />
+                <marker date="1525505044000" expanded="true" signature="638:710" ph="{...}" />
+                <marker date="1525505044000" expanded="true" signature="660:704" ph="[...]" />
+                <marker date="1525505044000" expanded="true" signature="727:1211" ph="{...}" />
+                <marker date="1525505044000" expanded="true" signature="766:832" ph="[...]" />
+                <marker date="1525505044000" expanded="true" signature="869:919" ph="[...]" />
+                <marker date="1525505044000" expanded="true" signature="949:1063" ph="[...]" />
+                <marker date="1525505044000" expanded="true" signature="1092:1205" ph="[...]" />
+                <marker date="1525505044000" expanded="true" signature="1227:1270" ph="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
+                <marker date="1525505044000" expanded="true" signature="1287:1354" ph="{...}" />
+                <marker date="1525505044000" expanded="true" signature="1304:1348" ph="{&quot;verify_peer&quot;: false...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="INSTALL" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/phpqrcode/INSTALL">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registered.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/registered.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3510">
+              <caret line="234" column="10" lean-forward="false" selection-start-line="234" selection-start-column="10" selection-end-line="234" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018_04_15_045728_create_students_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2018_04_15_045728_create_students_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="23" column="32" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="23" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="firstController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/firstController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014_10_12_000000_create_users_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>yonata</find>
+      <find>yoha</find>
+      <find>ad1</find>
+      <find>addis ababa</find>
+      <find>h-search-wrap</find>
+      <find>href</find>
+      <find>src</find>
+      <find>ad</find>
+      <find>user.pro</find>
+      <find>stop.ad</find>
+      <find>SME_id</find>
+      <find>ads.info</find>
+      <find>yohan</find>
+      <find>averager</find>
+      <find>count()</find>
+      <find>sear</find>
+      <find>avera</find>
+      <find>materia</find>
+      <find>rating</find>
+      <find>pagina</find>
+      <find>admin nam</find>
+      <find>home</find>
+      <find>sales</find>
+      <find>dashb</find>
+      <find>studInfo</find>
+      <find>check</find>
+      <find>brand</find>
+      <find>STUDLAPINFO</find>
+      <find>STUDENT INF</find>
+      <find>require</find>
+    </findStrings>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="php artisan sreve" />
+      <command text="php artisan --host=127.0.0.1 --port=8585 sreve" />
+      <command text="clear" />
+      <command text="php artisan make" />
+      <command text="php artisan make:model rate -m" />
+      <command text="php artisan migrate" />
+      <command text="php artisan migrate:" />
+      <command text="php artisan migrate:refresh" />
+      <command text="php artisan migrate" />
+      <command text="php artisan --host=127.0.0.1 --port=8585 serve" />
+      <command text="php artisan migrate" />
+      <command text="php artisan make:controller dashboardController" />
+      <command text="php artisan --host=127.0.0.1 --port=8585 serve" />
+      <command text="php artisan make:controller laptopController" />
+      <command text="php artisan make:mode Students -m" />
+      <command text="php artisan make:mode Student -m" />
+      <command text="php artisan migrate" />
+      <command text="php artisan make:mode StudentLaptop -m" />
+      <command text="php artisan migrate" />
+      <command text="php artisan migrate:refresh" />
+      <command text="php artisan migrate" />
+      <command text="php artisan make:mode StudentLaptop -m" />
+      <command text="php artisan migrate" />
+      <command text="php artisan make:mode StudentLaptop -m" />
+      <command text="php artisan migrate" />
+    </commandsHistory>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/resources/views/index.blade.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database/migrations/2017_06_13_194358_create_l_n_b_s_table.php" />
+        <option value="$PROJECT_DIR$/app/l_n_b_s.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_06_13_190146_create_rates_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/lnbInfoController.php" />
+        <option value="$PROJECT_DIR$/resources/views/categories.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/noteController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/SmeManagerController.php" />
+        <option value="$PROJECT_DIR$/app/notes.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_05_30_043948_create_notes_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/profile-about.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/apps.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/events.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/ads.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_06_16_173315_create_messages_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/SmeController.php" />
+        <option value="$PROJECT_DIR$/storage/logs/laravel.log" />
+        <option value="$PROJECT_DIR$/resources/views/manager.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/AdminMessages.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/VacancyController.php" />
+        <option value="$PROJECT_DIR$/app/messages.php" />
+        <option value="$PROJECT_DIR$/app/messagereplay.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/messageController.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_06_19_210859_create_messagereplays_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_06_19_213305_create_messagereplays_table.php" />
+        <option value="$PROJECT_DIR$/public/css/app_1.min.css" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/SmeAdController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/adController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/rateController.php" />
+        <option value="$PROJECT_DIR$/resources/views/smedetail.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/profile-messages.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/profile-photos.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/profile-ads.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/profile-vacancy.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/profile-info.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/resources/views/login.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/firstController.php" />
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_04_15_045728_create_students_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_04_15_084622_create_student_laptops_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/register.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_04_15_085145_create_student_laptops_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2018_04_15_093927_create_student_laptops_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/registered.blade.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/laptopController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ASTU_LMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ASTU_LMS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ASTU_LMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ASTU_LMS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ASTU_LMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ASTU_LMS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ASTU_LMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ASTU_LMS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="SearchEverywhereHistoryKey" value="inde&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/index.blade.php&#10;info&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-info.blade.php&#10;vac&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-vacancy.blade.php&#10;ads&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-ads.blade.php&#10;pho&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-photos.blade.php&#10;detail&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/smedetail.blade.php&#10;messages&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-messages.blade.php&#10;deta&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/smedetail.blade.php&#10;ratecont&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/rateController.php&#10;cat&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/CategoryController.php&#10;adcontr&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/adController.php&#10;route&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/routes.php&#10;smead&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/SmeAdController.php&#10;sme&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/SmeAdController.php&#10;user&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/UserController.php&#10;sm&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/SmeAdController.php&#10;adc&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/SmeAdController.php&#10;rate&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/rateController.php&#10;app1&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/public/css/app_1.min.css&#10;ca&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/CategoryController.php&#10;vaca&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/VacancyController.php&#10;cate&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/CategoryController.php&#10;index&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/index.blade.php&#10;phot&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-photos.blade.php&#10;pr&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-messages.blade.php&#10;message&#9;null&#9;null&#10;messagerepl&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/database/migrations/2017_06_19_210859_create_messagereplays_table.php&#10;messagec&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/messageController.php&#10;profile-mess&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-messages.blade.php&#10;mess&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/messages.php&#10;messagere&#9;null&#9;null&#10;messa&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/messageController.php&#10;comment&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/commentController.php&#10;app_1&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/public/css/app_1.min.css&#10;profile&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-messages.blade.php&#10;messagecont&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/messageController.php&#10;blade.php&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/profile-ads.blade.php&#10;controller&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/rateController.php&#10;vacanc&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/VacancyController.php&#10;idne&#9;null&#9;null&#10;messageContr&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/messageController.php&#10;categ&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/CategoryController.php&#10;comme&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Comments.php&#10;.log&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/storage/logs/laravel.log&#10;Comment&#9;null&#9;null&#10;User&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/User.php&#10;ADminMess&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/resources/views/AdminMessages.blade.php&#10;messageController&#9;FILE&#9;file:///Users/john/Documents/Final/LNB_PRO/app/Http/Controllers/messageController.php" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.vendor">
+    <configuration default="false" name="vendor" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/vendor" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.vendor" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.vendor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93565304-09b5-4ab4-aed8-7fc94cf539f9" name="Default" comment="" />
+      <created>1494930184385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494930184385</updated>
+      <workItem from="1494930185758" duration="5937000" />
+      <workItem from="1494961387569" duration="347000" />
+      <workItem from="1494961940330" duration="20765000" />
+      <workItem from="1495076273297" duration="9442000" />
+      <workItem from="1495141937008" duration="3068000" />
+      <workItem from="1495171314377" duration="59227000" />
+      <workItem from="1495309388746" duration="35873000" />
+      <workItem from="1495398800385" duration="6647000" />
+      <workItem from="1495509434272" duration="28610000" />
+      <workItem from="1495626337075" duration="1089000" />
+      <workItem from="1495699573758" duration="4209000" />
+      <workItem from="1495716679093" duration="5770000" />
+      <workItem from="1495772497098" duration="1925000" />
+      <workItem from="1495958522654" duration="12382000" />
+      <workItem from="1496020776658" duration="8855000" />
+      <workItem from="1496037592302" duration="85000" />
+      <workItem from="1496039289421" duration="3077000" />
+      <workItem from="1496119650119" duration="2209000" />
+      <workItem from="1487044826362" duration="914000" />
+      <workItem from="1487045977153" duration="123000" />
+      <workItem from="1496290993823" duration="4848000" />
+      <workItem from="1496480760486" duration="4534000" />
+      <workItem from="1496486437348" duration="3792000" />
+      <workItem from="1496725615717" duration="6284000" />
+      <workItem from="1496753641984" duration="625000" />
+      <workItem from="1496894158957" duration="1208000" />
+      <workItem from="1497064891682" duration="13237000" />
+      <workItem from="1497281572831" duration="3208000" />
+      <workItem from="1497298530775" duration="22496000" />
+      <workItem from="1497427796468" duration="676000" />
+      <workItem from="1497439643927" duration="2324000" />
+      <workItem from="1497453503643" duration="923000" />
+      <workItem from="1497493389551" duration="7264000" />
+      <workItem from="1497555612700" duration="660000" />
+      <workItem from="1497596630199" duration="476000" />
+      <workItem from="1497614408568" duration="1828000" />
+      <workItem from="1497633986518" duration="1453000" />
+      <workItem from="1497705363885" duration="6062000" />
+      <workItem from="1497729497571" duration="236000" />
+      <workItem from="1497760085816" duration="4048000" />
+      <workItem from="1497800978500" duration="3000" />
+      <workItem from="1497802241095" duration="459000" />
+      <workItem from="1497887180992" duration="14443000" />
+      <workItem from="1498045548220" duration="945000" />
+      <workItem from="1498052544144" duration="1957000" />
+      <workItem from="1498069095125" duration="3297000" />
+      <workItem from="1498158506634" duration="614000" />
+      <workItem from="1498246846360" duration="889000" />
+      <workItem from="1498289113989" duration="2380000" />
+      <workItem from="1523726905912" duration="2759000" />
+      <workItem from="1523729850679" duration="5621000" />
+      <workItem from="1523767697388" duration="6963000" />
+      <workItem from="1523776844683" duration="10621000" />
+      <workItem from="1525166449753" duration="2609000" />
+      <workItem from="1525360615191" duration="957000" />
+      <workItem from="1525435786578" duration="1378000" />
+      <workItem from="1525587167511" duration="281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="352912000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4127604" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07385697" sideWeight="0.49722221" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09026964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/messageController.php" />
+    <entry file="file://$PROJECT_DIR$/app/messages.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2017_06_19_210859_create_messagereplays_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2017_06_19_213305_create_messagereplays_table.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/VacancyController.php" />
+    <entry file="file://$PROJECT_DIR$/public/css/app_1.min.css" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/adController.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/profile-messages.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/smedetail.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/profile-photos.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/profile-ads.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/profile-vacancy.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/profile-info.blade.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/rateController.php" />
+    <entry file="file://$PROJECT_DIR$/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/commentController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/lnbInfoController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SmeAdController.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2017_05_16_051235_create_catagories_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/ModelFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Catagories.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="62" lean-forward="false" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/userController.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="51" lean-forward="false" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/dashboardController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/StudentLaptop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_04_15_084622_create_student_laptops_table.php" />
+    <entry file="file://$PROJECT_DIR$/app/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="305" column="46" lean-forward="false" selection-start-line="305" selection-start-column="46" selection-end-line="305" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_04_15_085145_create_student_laptops_table.php" />
+    <entry file="file://$PROJECT_DIR$/public/phpqrcode/README" />
+    <entry file="file://$PROJECT_DIR$/public/phpqrcode/index.php" />
+    <entry file="file://$PROJECT_DIR$/public/phpqrcode/qrlib.php" />
+    <entry file="file://$PROJECT_DIR$/public/phpqrcode/INSTALL" />
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_04_15_093927_create_student_laptops_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/phpqrcode/INSTALL">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/registered.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3510">
+          <caret line="234" column="10" lean-forward="false" selection-start-line="234" selection-start-column="10" selection-end-line="234" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2018_04_15_045728_create_students_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="32" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="23" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/firstController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding>
+            <marker date="1525505044000" expanded="true" signature="272:478" ph="{&quot;fzaninotto/faker&quot;: &quot;~1.4&quot;...}" />
+            <marker date="1525505044000" expanded="true" signature="496:616" ph="{...}" />
+            <marker date="1525505044000" expanded="true" signature="518:552" ph="[...]" />
+            <marker date="1525505044000" expanded="true" signature="571:610" ph="{&quot;App\&quot;: &quot;app/&quot;...}" />
+            <marker date="1525505044000" expanded="true" signature="638:710" ph="{...}" />
+            <marker date="1525505044000" expanded="true" signature="660:704" ph="[...]" />
+            <marker date="1525505044000" expanded="true" signature="727:1211" ph="{...}" />
+            <marker date="1525505044000" expanded="true" signature="766:832" ph="[...]" />
+            <marker date="1525505044000" expanded="true" signature="869:919" ph="[...]" />
+            <marker date="1525505044000" expanded="true" signature="949:1063" ph="[...]" />
+            <marker date="1525505044000" expanded="true" signature="1092:1205" ph="[...]" />
+            <marker date="1525505044000" expanded="true" signature="1227:1270" ph="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
+            <marker date="1525505044000" expanded="true" signature="1287:1354" ph="{...}" />
+            <marker date="1525505044000" expanded="true" signature="1304:1348" ph="{&quot;verify_peer&quot;: false...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="192" column="8" lean-forward="false" selection-start-line="192" selection-start-column="8" selection-end-line="192" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/laptopController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
