@@ -1,3 +1,20 @@
+# Getting started
+
+Steps:
+  1. Clone the repo
+  2. Create a database with the name <b>ASTU</b>, mySQL database would be nice.
+  3. Import the tables and data from the <b>lms_sql.sql</b> file to the database you just created
+  4. launch this command from project direcory 
+  
+  ``` php artisan serve ```   or   ``` php artisan serve --host=127.0.0.1 --port=8383 ```
+     
+ 
+      
+     
+# Demo
+https://www.youtube.com/watch?v=_V58S7NxeQw
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
