@@ -14,6 +14,9 @@ Steps:
 # Demo
 https://www.youtube.com/watch?v=_V58S7NxeQw
 
+# Banner
+![ASTU LAPTOP MANAGEMENT SYSTEM](https://user-images.githubusercontent.com/40062131/76290560-77b5d380-62bc-11ea-849b-6413ec09a85b.jpg)
+
 
 # Laravel PHP Framework
 
