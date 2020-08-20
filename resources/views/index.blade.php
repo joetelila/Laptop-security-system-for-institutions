@@ -130,18 +130,18 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <h1><a class="navbar-brand" href="{{route('home')}}"><span class="fa fa-qrcode"></span> ASTU<span class="dashboard_text">Laptop Manager Admin</span></a></h1>
+            <h1><a class="navbar-brand" href="{{--route('home')--}}"><span class="fa fa-qrcode"></span> ASTU<span class="dashboard_text">Laptop Manager Admin</span></a></h1>
           </div>
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="sidebar-menu">
               <li class="header">MAIN NAVIGATION</li>
               <li class="treeview">
-                <a href="{{route('home')}}">
+                <a href="{{--route('home')--}}">
                 <i class="fa fa-dashboard"></i> <span>Dashboard</span>
                 </a>
               </li>
               <li class="treeview">
-                <a href="{{route('register')}}">
+                <a href="{{--route('register')--}}">
                 <i class="fa  fa-laptop"></i> <span>Register</span>
                 </a>
               </li>
@@ -151,7 +151,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
                 </a>
               </li>
              <li class="treeview">
-                <a href="{{route('manualcheck')}}">
+                <a href="{{--route('manualcheck')--}}">
                 <i class="fa  fa-check-circle"></i> <span>Manual Check</span>
                 </a>
               </li>
@@ -170,7 +170,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
 
 
 			  <li class="header">ADD</li>
-              <li><a href="{{route('addnewstudent')}}"><i class="fa fa-plus-circle text-red"></i> <span>ADD NEW STUDENT</span></a></li>
+              <li><a href="{{--route('addnewstudent')--}}"><i class="fa fa-plus-circle text-red"></i> <span>ADD NEW STUDENT</span></a></li>
              </ul>
           </div>
           <!-- /.navbar-collapse -->
@@ -212,7 +212,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
 								<div class="profile_img">
 									<span class="prfil-img"><img src="images/4.jpg" alt="" height="44" width="44"> </span>
 									<div class="user-name">
-										<p>{{ \Illuminate\Support\Facades\Auth::user()->first_name }} {{ \Illuminate\Support\Facades\Auth::user()->last_name }}</p>
+										<p>{{-- \Illuminate\Support\Facades\Auth::user()->first_name --}} {{-- \Illuminate\Support\Facades\Auth::user()->last_name --}}</p>
 										<span>Administrator</span>
 									</div>
 									<i class="fa fa-angle-down lnr"></i>
@@ -224,7 +224,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
 								<li> <a href="#"><i class="fa fa-cog"></i> Settings</a> </li>
 								<li> <a href="#"><i class="fa fa-user"></i> My Account</a> </li>
 								<li> <a href="#"><i class="fa fa-suitcase"></i> Profile</a> </li>
-								<li> <a href="{{ route('logout')}}"><i class="fa fa-sign-out"></i> Logout</a> </li>
+								<li> <a href="{{-- route('logout')--}}"><i class="fa fa-sign-out"></i> Logout</a> </li>
 							</ul>
 						</li>
 					</ul>
@@ -242,7 +242,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
         		<div class="r3_counter_box">
                     <i class="pull-left fa  fa-group icon-rounded" style="background-color: #70df99 !important;"></i>
                     <div class="stats">
-                      <h5><strong>{{$totStuds}}</strong></h5>
+                      <h5><strong>{{ $totalStudents }}</strong></h5>
                       <span>TOTAL STUDENTS </span>
                     </div>
                 </div>
@@ -251,7 +251,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
         		<div class="r3_counter_box">
                     <i class="pull-left fa fa-laptop user1 icon-rounded"></i>
                     <div class="stats">
-                      <h5><strong>{{$totalLaps}}</strong></h5>
+                      <h5><strong>{{$totalLaptops}}</strong></h5>
                       <span>TOTAL REGISTERED LAPTOPS </span>
                     </div>
                 </div>
@@ -260,7 +260,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
         		<div class="r3_counter_box">
                     <i class="pull-left fa fa-users dollar2 icon-rounded"></i>
                     <div class="stats">
-                      <h5><strong>{{$totguestLaps}}</strong></h5>
+                      <h5><strong>{{$totalGuestLaptops}}</strong></h5>
                       <span>TOTAL GUEST LAPTOPS </span>
                     </div>
                 </div>
@@ -269,7 +269,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
         		<div class="r3_counter_box">
                     <i class="pull-left fa  fa-laptop icon-rounded"></i>
                     <div class="stats">
-                      <h5><strong>{{$totstaffLaps}}</strong></h5>
+                      <h5><strong>{{$totalStaffLaptops}}</strong></h5>
                       <span>TOTAL STAFF LAPTOPS </span>
                     </div>
                 </div>
@@ -278,7 +278,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
         		<div class="r3_counter_box">
                     <i class="pull-left fa fa-list-ul icon-rounded" style="background-color: #f7c267 !important;"></i>
                     <div class="stats">
-                      <h5><strong>{{$totstudLaps}}</strong></h5>
+                      <h5><strong>{{$totalStudentLaptops}}</strong></h5>
                       <span>TOTAL STUDENT LAPTOPS</span>
                     </div>
                 </div>
@@ -287,7 +287,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
         		<div class="r3_counter_box">
                     <i class="pull-left fa fa-umbrella icon-rounded" style="background-color: #702871 !important;"></i>
                     <div class="stats">
-                      <h5><strong>{{$totLostLaps}}</strong></h5>
+                      <h5><strong>{{--$totalLaptops--}}</strong></h5>
                       <span>TOTAL LOST LAPTOPS </span>
                     </div>
                 </div>
@@ -302,10 +302,10 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
 				<div class="content-top-1">
 				<div class="col-md-6 top-content">
 					<h5>Toshiba</h5>
-					<label>{{$totToshiba}}</label>
+					<label>{{--$totToshiba--}}</label>
 				</div>
 				<div class="col-md-6 top-content1">
-					<div id="demo-pie-1" class="pie-title-center" data-percent="{{$toshPerc}}"> <span class="pie-value"></span> </div>
+					<div id="demo-pie-1" class="pie-title-center" data-percent="{{--$toshPerc--}}"> <span class="pie-value"></span> </div>
 				</div>
 				 <div class="clearfix"> </div>
 				</div>
@@ -314,10 +314,10 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
                <div class="content-top-1">
 				<div class="col-md-6 top-content">
 					<h5>Dell</h5>
-					<label>{{$totDell}}</label>
+					<label>{{--$totDell--}}</label>
 				</div>
 				<div class="col-md-6 top-content1">
-					<div id="demo-pie-2" class="pie-title-center" data-percent="{{$dellPerc}}"> <span class="pie-value"></span> </div>
+					<div id="demo-pie-2" class="pie-title-center" data-percent="{{--$dellPerc--}}"> <span class="pie-value"></span> </div>
 				</div>
 				 <div class="clearfix"> </div>
 				</div>
@@ -326,10 +326,10 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
               	<div class="content-top-1">
 				<div class="col-md-6 top-content">
 					<h5>Samsung</h5>
-					<label>{{$totSamsung}}</label>
+					<label>{{--$totSamsung--}}</label>
 				</div>
 				<div class="col-md-6 top-content1">
-					<div id="demo-pie-3" class="pie-title-center" data-percent="{{$samPerc}}"> <span class="pie-value"></span> </div>
+					<div id="demo-pie-3" class="pie-title-center" data-percent="{{--$samPerc--}}"> <span class="pie-value"></span> </div>
 				</div>
 				 <div class="clearfix"> </div>
 				</div>
@@ -338,10 +338,10 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
               	<div class="content-top-1">
 				<div class="col-md-6 top-content">
 					<h5>Others</h5>
-					<label>{{$totalRest}}</label>
+					<label>{{--$totalRest--}}</label>
 				</div>
 				<div class="col-md-6 top-content1">
-					<div id="demo-pie-4" class="pie-title-center" data-percent="{{$restPerc}}"> <span class="pie-value"></span> </div>
+					<div id="demo-pie-4" class="pie-title-center" data-percent="{{--$restPerc--}}"> <span class="pie-value"></span> </div>
 				</div>
 				 <div class="clearfix"> </div>
 				</div>

@@ -1,0 +1,20 @@
+{
+    "name": "josseph/fetcher",
+    "description": "creates a migration from an existing sql file",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jossephus",
+            "email": "yosephtuemay64@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {} , 
+    "autoload" : {
+        "psr-4" : {
+            "Jossephus\\SqlFetcher\\" : "src/"
+        }
+    }
+
+}

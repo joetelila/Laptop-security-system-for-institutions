@@ -1,0 +1,19 @@
+{
+    "name": "josseph/contact",
+    "description": "my first package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jossephus",
+            "email": "yosephtuemay64@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {} , 
+    "autoload": {
+        "psr-4": {
+            "Josseph\\Contact\\": "src/"
+        },  
+    }
+}
